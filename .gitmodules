@@ -1,0 +1,3 @@
+[submodule "laba_3/part2"]
+	path = laba_3/part2
+	url = git@github.com:matveylapin/labs_tau_part2.git
